@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'android-apt'
 android {
     compileSdkVersion 23
     buildToolsVersion "24.0.1"
@@ -22,7 +22,19 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile project(':vitamio')
     compile project(':videoplayer')
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.jakewharton:butterknife:8.2.0'
+    apt 'com.jakewharton:butterknife-compiler:8.2.0'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.vinaysshenoy:mugen:1.0.3'
+    compile 'com.android.support:cardview-v7:23.4.0'
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'com.android.support:design:23.4.0'
 }

@@ -20,12 +20,12 @@
         "source": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png"
     },
     {
-        "merged": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\mediacontroller_play.png",
-        "source": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\mediacontroller_play.png"
-    },
-    {
         "merged": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png",
         "source": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\mediacontroller_play.png",
+        "source": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\mediacontroller_play.png"
     },
     {
         "merged": "D:\\CER\\MyOnlineVideo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",

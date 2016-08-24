@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FF00FF00"
-    tools:context=".PartPlayActivity">
+    >
 
     <com.example.videoplayer.full.part.SimpleVideoView
         android:id="@+id/simpleVideoPlayer"
         android:layout_width="match_parent"
-        android:layout_height="400dp"/>
+        android:layout_height="300dp"/>
 </RelativeLayout>

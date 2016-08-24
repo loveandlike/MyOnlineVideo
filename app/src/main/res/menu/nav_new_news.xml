@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/zj"
+            android:icon="@mipmap/ic_launcher"
+            android:title="增加">
+
+        </item>
+        <item
+            android:id="@+id/sc"
+            android:icon="@mipmap/ic_launcher"
+            android:title="删除">
+
+        </item>
+
+        <item
+            android:id="@+id/gb"
+            android:icon="@mipmap/ic_launcher"
+            android:title="改变">
+
+        </item>
+
+        <item
+            android:id="@+id/ck"
+            android:icon="@mipmap/ic_launcher"
+            android:title="查看">
+
+        </item>
+    </group>
+
+
+</menu>
